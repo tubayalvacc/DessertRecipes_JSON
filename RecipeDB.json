@@ -1,0 +1,881 @@
+[
+  {
+    "id": 1,
+    "title": "Lemon Blueberry Layer Cake",
+    "description": "Sunshine-sweet lemon blueberry layer cake dotted with juicy berries and topped with lush cream cheese frosting. One of the most popular cake recipes on this website! This cake has become one of my favorite spring dessert recipes and Easter dessert recipes—and for good reason. Let’s dive headfirst into this sunshine-sweet springtime layer cake… no matter the time of year! How to Make Lemon Blueberry Cake Fresh lemons: Use fresh lemon juice and lemon zest in the cake batter. None of that lemon extract stuff! How to choose lemons at the store? Make sure the lemons you choose are smooth-skinned and heavy for their size. That way you know they are extra juicy. Buttermilk: Known for providing exceptional moisture to baked goods, buttermilk leaves each bite tender and lush. If you don’t have buttermilk, you can use whole milk instead. Brown sugar & 4 eggs: I’ve found that lemon cakes can easily be dry and gritty, so add some moist-making ingredients like brown sugar, eggs, and buttermilk. Buttermilk, a little brown sugar, and 4 eggs assure the final product is as moist as it could possibly be without being wet. Fresh or frozen blueberries: Fresh or frozen blueberries are OK. If using frozen, do not thaw. I love this lemon blueberry cake because the blueberries DO NOT sink to the bottom of the cake. Why not? The batter is thick. When you have a thin batter, heavy fruit or add-ins will sink to the bottom. I also recommend tossing the blueberries in a little flour too—this is extra insurance they don’t sink!",
+    "course": "Dessert",
+    "prep_time": "30 minutes",
+    "cook_time": "1 hour",
+    "total_time": "3 hours",
+    "difficulty": "medium",
+    "yield": "10-12 servings",
+    "ingredients": [
+      {
+        "title": "Cake Ingredients",
+        "items": [
+          {
+            "ing_id": 1,
+            "aa_url": "",
+            "name": "Unsalted Butter",
+            "info": "Softened to room temperature",
+            "quantity": "1 Cup (16 Tbsp; 226g)"
+          },
+          {
+            "ing_id": 2,
+            "aa_url": "",
+            "name": "Granulated Sugar",
+            "info": "",
+            "quantity": "1 and 1/4 cups (250g)"
+          },
+          {
+            "ing_id": 3,
+            "aa_url": "",
+            "name": "Packed light brown sugar",
+            "info": "",
+            "quantity": "1/2 cup (100g)"
+          },
+          {
+            "ing_id": 4,
+            "aa_url": "",
+            "name": "Large eggs",
+            "info": "at room temperature",
+            "quantity": "4"
+          },
+          {
+            "ing_id": 5,
+            "aa_url": "",
+            "name": "Pure vanilla extract",
+            "info": "",
+            "quantity": "1 Tablespoon"
+          },
+          {
+            "ing_id": 6,
+            "aa_url": "",
+            "name": "Sifted all-purpose flour",
+            "info": "spooned & leveled",
+            "quantity": "3 cups (354g)"
+          },
+          {
+            "ing_id": 7,
+            "aa_url": "",
+            "name": "Baking powder",
+            "info": "",
+            "quantity": "1 Tablespoon"
+          },
+          {
+            "ing_id": 8,
+            "aa_url": "",
+            "name": "Salt",
+            "info": "",
+            "quantity": "1/2 Teaspoon"
+          },
+          {
+            "ing_id": 9,
+            "aa_url": "",
+            "name": "Buttermilk",
+            "info": "",
+            "quantity": "1 Cup (240ml)"
+          },
+          {
+            "ing_id": 10,
+            "aa_url": "",
+            "name": "Lemon Zest",
+            "info": "",
+            "quantity": "2 Tablespoons"
+          },
+          {
+            "ing_id": 11,
+            "aa_url": "",
+            "name": "Lemon Juice",
+            "info": "from 3 Medium lemons",
+            "quantity": "1/2 Cup (120ml)"
+          },
+          {
+            "ing_id": 12,
+            "aa_url": "",
+            "name": "Blueberries",
+            "info": "fresh or frozen (do not thaw)",
+            "quantity": "1 and 1/2 Cups (210g)"
+          },
+          {
+            "ing_id": 13,
+            "aa_url": "",
+            "name": "All-purpose flour",
+            "info": "",
+            "quantity": "1 Tablespoon"
+          }
+        ]
+      },
+      {
+        "title": "Cream Cheese Frosting Ingredients",
+        "items": [
+          {
+            "ing_id": 14,
+            "aa_url": "",
+            "name": "Full-fat brick cream cheese",
+            "info": "Softened to room temperature",
+            "quantity": "8 ounces (226g)"
+          },
+          {
+            "ing_id": 15,
+            "aa_url": "",
+            "name": "Unsalted butter",
+            "info": "Softened to room temperature",
+            "quantity": "1/2 Cup (8 Tbsp; 113g)"
+          },
+          {
+            "ing_id": 16,
+            "aa_url": "",
+            "name": "Confectioners' sugar",
+            "info": "",
+            "quantity": "3 and 1/2 cups (420g)"
+          },
+          {
+            "ing_id": 17,
+            "aa_url": "",
+            "name": "Heavy Cream",
+            "info": "",
+            "quantity": "1-2 Tablespoons (15-30ml)"
+          },
+          {
+            "ing_id": 18,
+            "aa_url": "",
+            "name": "Pure vanilla extract",
+            "info": "",
+            "quantity": "1 Teaspoon"
+          },
+          {
+            "ing_id": 19,
+            "aa_url": "",
+            "name": "Salt",
+            "info": "",
+            "quantity": "pinch"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F (177°C). Grease three 9-inch round cake pans or 8-inch round cake pans (8-inch pans produce thicker cakes), line with parchment paper rounds, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans.",
+      "Make the cake: Using a handheld or stand mixer with a paddle attachment, beat the butter on high until creamy—about 1 minute. Add granulated and brown sugars and beat on medium-high speed until creamed, about 2-3 minutes. Add eggs and vanilla. Beat on medium speed until everything is completely combined, about 2 full minutes. Scrape down the sides and bottom of the bowl as needed.",
+      "In a large bowl, whisk together the flour, baking powder, and salt. Slowly add the dry ingredients to the wet ingredients. Beat on low speed for 5 seconds, then beat in the buttermilk, lemon zest, and lemon juice *just* until combined. Toss the blueberries with 1 Tablespoon of flour and gently fold into the batter. Batter is extremely thick. Do not over-mix. Over-mixing will lead to a tough, dense textured crumb.",
+      "Spoon batter evenly into prepared cake pans. Bake for about 21-25 minutes or until a toothpick inserted in the center comes out clean. (8 inch cakes take closer to 25 minutes.) Remove from the oven and allow to cool completely in the pan before assembling and frosting.",
+      "Make the frosting: Using a handheld or stand mixer with a paddle attachment, beat cream cheese and butter together on medium speed until no lumps remain, about 3 full minutes. Add confectioners’ sugar, 1 Tablespoon cream, vanilla extract, and salt with the mixer running on low. Turn mixer to high speed and beat for 3 minutes. Add 1 more Tablespoon of cream to thin out, if desired.",
+      "Assemble and frost: First, using a large serrated knife, trim the tops off the cake layers to create a flat surface. Place 1 layer on your cake stand. Evenly cover the top with cream cheese frosting. Top with 2nd layer, more frosting, then the third layer. Top with frosting and spread around the sides. The recipe doesn’t make a ton of frosting, just enough for a light frost. Top with blueberries or lemon garnish if desired. Refrigerate for at least 45 minutes before cutting or else the cake may fall apart as you cut.",
+      "Cover leftover cake tightly."
+    ],
+    "image": "",
+    "cuisine": "",
+    "rating": {
+      "value": 0,
+      "count": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Double Chocolate Chip Cookies Recipe",
+    "description": "The best recipe for double chocolate chip cookies must obviously include extra doses of chocolate. These soft-baked thick and chunky cookies are as indulgent as they look: rich and fudge-like with chewy centers, slightly crisp edges, and oodles of melty chocolate chips in each glorious bite.",
+    "additional_info": [
+      "Why You’ll Love These Double Chocolate Chip Cookies",
+      "Easy to make with a basic dough",
+      "Soft-baked and chewy with fudge chocolate centers",
+      "Recipe is easily doubled",
+      "Cookie dough balls freeze well",
+      "You can use the cookies to make chocolate cookie ice cream sandwiches",
+      "Versatile dough! Turn them into s’more chocolate crinkle cookies in the summer, peppermint mocha cookies, Andes mint chocolate cookies, or peppermint frosted cookies in the winter, chocolate crinkle cookies or salted caramel dark chocolate cookies any time of year, or switch to white chips for inside out chocolate chip cookies",
+      "These soft-baked thick and chunky double chocolate chip cookies are rich and fudge-like with chewy centers, slightly crisp edges, and oodles of melty chocolate chips in each glorious bite. The dough needs to chill for at least 3 hours, but you can make it ahead of time and refrigerate overnight."
+    ],
+    "course": "Dessert",
+    "prep_time": "3 hours, 15 minutes (includes chilling)",
+    "cook_time": "12 minutes",
+    "total_time": "3 hours, 30 minutes",
+    "difficulty": "Medium",
+    "yield": "20-22 cookies",
+    "ingredients": [
+      {
+        "title": "Ingredients",
+        "items": [
+          {
+            "ing_id": 20,
+            "aa_url": "",
+            "name": "unsalted butter",
+            "info": "softened to room temperature",
+            "quantity": "1/2 cup (8 Tbsp; 113g)"
+          },
+          {
+            "ing_id": 21,
+            "aa_url": "",
+            "name": "granulated sugar",
+            "info": "",
+            "quantity": "1/2 cup (100g)"
+          },
+          {
+            "ing_id": 22,
+            "aa_url": "",
+            "name": "packed light or dark brown sugar",
+            "info": "",
+            "quantity": "1/2 cup (100g)"
+          },
+          {
+            "ing_id": 23,
+            "aa_url": "",
+            "name": "Large egg",
+            "info": "at room temperature",
+            "quantity": "1"
+          },
+          {
+            "ing_id": 24,
+            "aa_url": "",
+            "name": "pure vanilla extract",
+            "info": "",
+            "quantity": "1 Teaspoon"
+          },
+          {
+            "ing_id": 25,
+            "aa_url": "",
+            "name": "All-purpose flour",
+            "info": "spooned & leveled",
+            "quantity": "1 Cup (125g)"
+          },
+          {
+            "ing_id": 26,
+            "aa_url": "",
+            "name": "Cocoa powder",
+            "info": "natural unsweetened",
+            "quantity": "2/3 Cup (55g)"
+          },
+          {
+            "ing_id": 27,
+            "aa_url": "",
+            "name": "Baking Soda",
+            "info": "",
+            "quantity": "1 Teaspoon"
+          },
+          {
+            "ing_id": 28,
+            "aa_url": "",
+            "name": "Salt",
+            "info": "",
+            "quantity": "1/8 Teaspoon"
+          },
+          {
+            "ing_id": 29,
+            "aa_url": "",
+            "name": "Milk",
+            "info": "(any kind, dairy or non)",
+            "quantity": "1 Tablespoon (15ml)"
+          },
+          {
+            "ing_id": 30,
+            "aa_url": "",
+            "name": "semi-sweet Chocolate Chip",
+            "info": "plus a few more for optional topping",
+            "quantity": "1 and 1/4 Cups (225g)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Preliminary note: This cookie dough requires at least 3 hours of chilling, but I prefer to chill the dough overnight. The colder the dough, the thicker the cookies.",
+      "In a large bowl using a hand-held or stand mixer fitted with a paddle attachment, beat the butter, granulated sugar, and brown sugar together on medium-high speed until fluffy and light in color, about 2-3 minutes. Add the egg and vanilla extract, and then beat on high speed until combined. Scrape down the sides and bottom of the bowl as needed.",
+      "In a separate bowl, whisk the flour, cocoa powder, baking soda, and salt together until combined. With the mixer running on low speed, slowly pour into the wet ingredients. Beat on low until combined. The cookie dough will be quite thick. Switch to high speed and beat in the milk, then the chocolate chips. The cookie dough will be sticky and tacky. Cover dough tightly and chill in the refrigerator for at least 3 hours and up to 3 days. Chilling is mandatory for this sticky cookie dough.",
+      "Remove cookie dough from the refrigerator and allow to sit at room temperature for 10 minutes. If the cookie dough chilled longer than 3 hours, let it sit at room temperature for about 20 minutes. This makes the chilled cookie dough easier to scoop and roll.",
+      "Preheat oven to 350°F (177°C). Line large baking sheets with parchment paper or silicone baking mats. (Always recommended for cookies.) Set aside.",
+      "Scoop and roll dough, a heaping 1.5 Tablespoons (about 35-40g; I like to use this medium cookie scoop) in size, into balls. To ensure a thicker cookie, make the balls taller than they are wide (almost like a cylinder or column). Arrange 2-3 inches apart on the baking sheets. The cookie dough is certainly sticky, so wipe your hands clean after every few balls of dough you shape.",
+      "Bake the cookies for 11-12 minutes or until the edges appear set and the centers still look soft. Tip: If they aren’t really spreading by minute 9, remove them from the oven and lightly bang the baking sheet on the counter 2-3x. This helps initiate that spread. Return to the oven to continue baking.",
+      "Cool cookies for 5 minutes on the baking sheet. During this time, I like to press a few more chocolate chips into the tops of the warm cookies. (This is optional and only for looks.) Transfer to cooling rack to cool completely. The cookies will slightly deflate as they cool.",
+      "Cover leftover cookies tightly and store at room temperature for up to 1 week."
+    ],
+    "notes": [
+      "Make Ahead & Freezing Instructions: You can make the cookie dough and chill it in the refrigerator for up to 3 days (step 3). Baked cookies freeze well for up to 3 months. Unbaked cookie dough balls freeze well for up to 3 months. Bake frozen cookie dough balls for an extra minute, no need to thaw.",
+      "Larger Batch: The recipe is easy to double in 1 mixing bowl without overwhelming your mixer. Simply double all of the cookie dough ingredients. Dough chill time remains the same.",
+      "Do you know the difference between natural cocoa powder and dutch-process cocoa powder? Use natural in this dough.",
+      "Other Add-Ins: Instead of chocolate chips in the dough, you can use the same amount of peanut butter chips, white chocolate chips, M&Ms, chopped nuts, or butterscotch chips."
+    ],
+    "image": "",
+    "cuisine": "",
+    "rating": {
+      "value": 0,
+      "count": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "The Great Pumpkin Pie Recipe",
+    "description": "Bursting with flavor, this pumpkin pie recipe is my very favorite. It’s rich, smooth, and tastes incredible on my homemade pie crust and served with whipped cream. The pie crust leaves are purely for decor; you can leave those off the pie and only make one pie crust. You can also leave off the sugared cranberries.",
+    "course": "Entree",
+    "prep_time": "",
+    "cook_time": "",
+    "total_time": "",
+    "difficulty": "",
+    "yield": "",
+    "ingredients": [
+      {
+        "title": "Sugared Cranberries",
+        "ingredients": [
+          {
+            "ing_id": 31,
+            "aa_url": "",
+            "name": "Fresh Cranberries",
+            "info": "(do not use frozen)",
+            "quantity": "1 Cup(100g)"
+          },
+          {
+            "ing_id": 32,
+            "aa_url": "",
+            "name": "Water",
+            "info": "",
+            "quantity": "3/4 Cup(180ml)"
+          },
+          {
+            "ing_id": 33,
+            "aa_url": "",
+            "name": "Granulated Sugar",
+            "info": "divided",
+            "quantity": "1 and 1/4 Cups(250g)"
+          }
+        ]
+      },
+      {
+        "title": "Pumpkin Pie",
+        "ingredients": [
+          {
+            "ing_id": 34,
+            "aa_url": "",
+            "name": "Homemade Pie Dough",
+            "info": "(full recipe makes 2 crusts: 1 for bottom, 1 for leaf decor)",
+            "quantity": "1 Cup(100g)"
+          },
+          {
+            "ing_id": 35,
+            "aa_url": "",
+            "name": "Egg wash",
+            "info": "",
+            "quantity": "1 large egg beaten with 1 Tablespoon milk"
+          },
+          {
+            "ing_id": 36,
+            "aa_url": "",
+            "name": "Pumpkin puree",
+            "info": "",
+            "quantity": "one 15-ounce can(425g)"
+          },
+          {
+            "ing_id": 37,
+            "aa_url": "",
+            "name": "Large Eggs",
+            "info": "",
+            "quantity": "3"
+          },
+          {
+            "ing_id": 38,
+            "aa_url": "",
+            "name": "Packed light or dark brown sugar",
+            "info": "",
+            "quantity": "1 and 1/4 Cups(250g)"
+          },
+          {
+            "ing_id": 39,
+            "aa_url": "",
+            "name": "Corn starch",
+            "info": "",
+            "quantity": "1 Tablespoon(8g)"
+          },
+          {
+            "ing_id": 40,
+            "aa_url": "",
+            "name": "Salt",
+            "info": "",
+            "quantity": "1/2 Teaspoon"
+          },
+          {
+            "ing_id": 41,
+            "aa_url": "",
+            "name": "Ground Cinnamon",
+            "info": "",
+            "quantity": "1 and 1/2 Teaspoons"
+          },
+          {
+            "ing_id": 42,
+            "aa_url": "",
+            "name": "Ground ginger",
+            "info": "",
+            "quantity": "1/2 Teaspoon"
+          },
+          {
+            "ing_id": 43,
+            "aa_url": "",
+            "name": "Nutmeg",
+            "info": "ground or freshly grated",
+            "quantity": "1/4 Teaspoon"
+          },
+          {
+            "ing_id": 44,
+            "aa_url": "",
+            "name": "Ground Cloves",
+            "info": "",
+            "quantity": "1/8 Teaspoon"
+          },
+          {
+            "ing_id": 45,
+            "aa_url": "",
+            "name": "Black Pepper",
+            "info": "freshly ground",
+            "quantity": "1/8 Teaspoon"
+          },
+          {
+            "ing_id": 46,
+            "aa_url": "",
+            "name": "Milk",
+            "info": "",
+            "quantity": "1/4 Cup(60ml)"
+          },
+          {
+            "ing_id": 47,
+            "aa_url": "",
+            "name": "Heavy Cream",
+            "info": "",
+            "quantity": "1 Cup(240ml)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "If garnishing with sugared cranberries, make those first: If you want to decorate the pie with sugared cranberries, start them the night before because they need to sit for several hours. Place cranberries in a large heatproof bowl. Set aside. In a medium saucepan set over medium heat, bring the water and 3/4 cup (150g) of sugar to a simmer, whisking until the sugar has dissolved. Remove the pan from heat and allow to cool for 5 minutes. Pour the sugar syrup over the cranberries and stir. Cover the bowl and set aside for 15 minutes. Line a baking sheet with parchment paper or a silicone baking mat. Using a slotted spoon, transfer the cranberries from the sugar syrup and place them on the prepared baking sheet. Allow to dry, uncovered, for 1 hour. Pour remaining 1/2 cup (100g) sugar into a large bowl. Toss the cranberries in the sugar, coating them all the way around. Place on a parchment paper- or silicone baking mat-lined baking sheet and let them dry uncovered for at least 1 hour at room temperature or in the refrigerator. Cover tightly and store in the refrigerator for up to 3 days.",
+      "Make the pie crust through step 5 according to my directions and video tutorial in my pie crust recipe. Or use your favorite pie dough or store-bought.",
+      "Preheat oven to 375°F (190°C).",
+      "Roll out the chilled pie crust: Remove 1 disc of pie dough from the refrigerator. On a lightly floured work surface, roll the dough out into a 12-inch circle. Make sure to turn the dough about a quarter turn after every few rolls. Carefully place the dough into a 9×2-inch deep dish pie dish (this is the one I use; it is 1.75-inches deep). Tuck it in with your fingers, making sure it’s tightly pressed into the pie dish. Fold any dough overhang back into the dish to form a thick rim around the edges. Crimp the edges with a fork or flute the edges with your fingers. Brush edges lightly with egg wash mixture.",
+      "Par-bake the crust: Line the pie crust with parchment paper. Crunching up the parchment paper is helpful so that you can easily shape it into the crust. Fill with pie weights or dried beans. (Note that you will need at least 2 standard sets of pie weights to fit.) Make sure the weights/beans are evenly distributed around the pie dish. Par-bake the crust for 10 minutes. Carefully remove the parchment paper/pie weights. Prick the bottom of the crust all over with a fork to create steam vents and return crust (without weights) to the oven for 7-8 more minutes or until the bottom is *just* starting to brown.",
+      "Make the pumpkin pie filling: Whisk the pumpkin, 3 eggs, and brown sugar together until combined. Add the cornstarch, salt, cinnamon, ginger, nutmeg, cloves, pepper, heavy cream, and milk. Vigorously whisk until everything is combined.",
+      "Pour pumpkin pie filling into the warm crust. Only fill the crust about 3/4 of the way up. (If using a deep dish pie dish as instructed, you should only have a little filling leftover. Use extra to make mini pies with leftover pie dough scraps if you’d like.) Bake the pie until the center is almost set, about 55-60 minutes give or take. A small part of the center will be wobbly—that’s okay. After 25 minutes of baking, be sure to cover the edges of the crust with aluminum foil or use a pie crust shield to prevent the edges from getting too brown. Check for doneness at minute 50, and then 55, and then 60, etc.",
+      "Once done, transfer the pie to a wire rack and allow to cool completely for at least 3 hours before garnishing and serving.",
+      "Decorate with sugared cranberries and pie crust leaves (see note). You’ll definitely have leftover cranberries… they’re tasty for snacking. Serve pie with whipped cream if desired. Cover leftovers tightly and store in the refrigerator for up to 5 days."
+    ],
+    "notes": [
+      "Make Ahead & Freezing Instructions: Pumpkin pie freezes well, up to 3 months. Thaw overnight in the refrigerator before serving. Pie crust dough freezes well for up to 3 months. Thaw overnight in the refrigerator before using. If decorating your pie with sugared cranberries, start them the night before. You’ll also begin the pie crust the night before as well (the dough needs at least 2 hours to chill; overnight is best). The filling can be made the night before as well. In fact, I prefer it that way. It gives the spices, pumpkin, and brown sugar flavors a chance to infuse and blend. It’s awesome. Cover and refrigerate overnight. No need to bring to room temperature before baking.",
+      "Cranberries: Use fresh cranberries, not frozen. The sugar syrup doesn’t coat evenly on the frozen berries, leaving you with rather ugly and some very plain shriveled cranberries.",
+      "Pumpkin: Canned pumpkin is best in this pumpkin pie recipe. I use and recommend Libby’s brand. If using fresh pumpkin puree, lightly blot it before adding to remove some moisture. The bake time may be longer.",
+      "Spices: Instead of ground ginger, nutmeg, cloves, and pepper, you can use 1 teaspoon of pumpkin pie spice. Be sure to still add 1 and 1/2 teaspoons of cinnamon.",
+      "Pie Crust Leaves: On a floured work surface, roll out one of the balls of chilled dough (keep the other one in the refrigerator). Roll out into any shape you really want (doesn’t matter) and 1/8 inch thickness. Using leaf cookie cutters, cut into shapes. Brush each lightly with the beaten egg + milk mixture. Cut leaf veins into leaves using a sharp knife, if desired. Place onto a parchment paper or silicone baking mat-lined baking sheet and bake at 350°F (177°C) for 10 minutes or until lightly browned. Remove and set aside to cool before decorating pie.",
+      "Pie Crust Leaves: My pie crust recipe makes enough for two crusts. So with the extra dough, you can make adorable leaves for decoration on your pumpkin pie. Or any pie, really. I’ve seen the pie crust leaves baked directly on top of the rim of the pie—and I tried that—but was not thrilled with the results. Too much uneven baking. The underside of the leaves weren’t really cooked through and the tops got a little burnt (even through my pie shield). So, to make things easier, just bake the pie crust leaves separately and place them on top of your pie before serving. You can also sprinkle them with a little cinnamon-sugar right before baking. I was going to do that, but I forgot."
+    ],
+    "image": "",
+    "cuisine": "",
+    "rating": {
+      "value": "",
+      "count": ""
+    }
+  },
+  {
+    "id": 4,
+    "title": "My Favorite Cornbread Recipe",
+    "description": "I was never a fan of cornbread until this recipe! After lots of recipe testing, I found the perfect ratio of ingredients for soft, moist, and buttery cornbread with crisp-crunchy edges. I guarantee this is the best cornbread recipe you’ll try!",
+    "course": "Entree",
+    "prep_time": "10 Minutes",
+    "cook_time": "20 Minutes",
+    "total_time": "1 Hour",
+    "difficulty": "Easy",
+    "yield": "9 Servings",
+    "ingredients": [
+      {
+        "title": "Ingredients",
+        "ingredients": [
+          {
+            "ing_id": 48,
+            "aa_url": "",
+            "name": "Fine cornmeal",
+            "info": "",
+            "quantity": "1 Cup (120g)"
+          },
+          {
+            "ing_id": 49,
+            "aa_url": "",
+            "name": "All-purpose flour",
+            "info": "(spooned & leveled)",
+            "quantity": "1 Cup (125g)"
+          },
+          {
+            "ing_id": 50,
+            "aa_url": "",
+            "name": "Baking powder",
+            "info": "",
+            "quantity": "1 Teaspoon"
+          },
+          {
+            "ing_id": 51,
+            "aa_url": "",
+            "name": "Baking soda",
+            "info": "",
+            "quantity": "1/2 Teaspoon"
+          },
+          {
+            "ing_id": 52,
+            "aa_url": "",
+            "name": "Salt",
+            "info": "",
+            "quantity": "1/8 Teaspoon"
+          },
+          {
+            "ing_id": 53,
+            "aa_url": "",
+            "name": "Unsalted butter",
+            "info": "melted and slightly cooled",
+            "quantity": "1/2 Cup (8 Tbsp; 113g)"
+          },
+          {
+            "ing_id": 54,
+            "aa_url": "",
+            "name": "Brown sugar",
+            "info": "packed light or dark",
+            "quantity": "1/3 Cup (67g)"
+          },
+          {
+            "ing_id": 55,
+            "aa_url": "",
+            "name": "Honey",
+            "info": "",
+            "quantity": "2 Tablespoons (30ml)"
+          },
+          {
+            "ing_id": 56,
+            "aa_url": "",
+            "name": "Large egg",
+            "info": "at room temperature",
+            "quantity": "1"
+          },
+          {
+            "ing_id": 57,
+            "aa_url": "",
+            "name": "Buttermilk",
+            "info": "at room temperature",
+            "quantity": "1 Cup (240ml)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Preheat oven to 400°F (204°C). Grease and lightly flour a 9-inch square baking pan. Set aside.",
+      "Whisk the cornmeal, flour, baking powder, baking soda, and salt together in a large bowl. Set aside. In a medium bowl, whisk the melted butter, brown sugar, and honey together until completely smooth and thick. Then, whisk in the egg until combined. Finally, whisk in the buttermilk. Pour the wet ingredients into the dry ingredients and whisk until combined. Avoid over-mixing.",
+      "Pour batter into prepared baking pan. Bake for 20 minutes or until golden brown on top and the center is cooked through. Use a toothpick to test. Edges should be crispy at this point. Allow to slightly cool before slicing and serving. Serve cornbread with butter, honey, jam, or whatever you like.",
+      "Wrap leftovers up tightly and store at room temperature for up to 1 week."
+    ],
+    "notes": [
+      "Freezing Instructions: For longer storage, freeze baked cornbread for up to 3 months. Allow to thaw overnight in the refrigerator, then warm the cornbread in the microwave or in a 300°F (149°C) oven for 10 minutes.",
+      "Buttermilk: Buttermilk is required for this recipe. If you don’t have any, you can make a DIY sour milk by adding 2 teaspoons of fresh lemon juice or white vinegar to a liquid measuring cup. Then add enough whole milk to make 1 cup total. Stir and let sit for 5 minutes before using. Whole milk is strongly recommended for the moistest, richest texture, but you can use lower-fat or nondairy milk in a pinch.",
+      "Optional Add-ins: 1 or 2 chopped jalapeño peppers; 1 cup blueberries; 1/2 cup each dried cranberries and walnuts; 1 cup shredded cheddar cheese; or 1/2 cup crumbled bacon.",
+      "Skillet Cornbread: Baking cornbread in a skillet gives it an even heartier, crunchier crust. Bake this cornbread in a 9-inch or 10-inch oven-safe greased skillet at the same temperature for the same amount of time."
+    ],
+    "image": "",
+    "cuisine": "",
+    "rating": {
+      "value": null,
+      "count": null
+    }
+  },
+  {
+    "id": 5,
+    "title": "Peanut Butter Banana Chocolate Chip Oatmeal Bars",
+    "description": "Super easy and quick, mega flavorful and wholesome, just like peanut butter banana muffins, gluten free, vegan if using dairy-free chocolate, filled with healthful ingredients, soft-baked and moist, adaptable to what you have on hand, freezer-friendly. Ok ok I know chocolate chips aren’t necessarily healthy but they’re good for the soul! And, of course, they’re totally optional, so feel free to leave them out. Either way, these are a prime choice if you’re on the lookout for healthier dessert recipe ideas.",
+    "course": "Entree",
+    "prep_time": "",
+    "cook_time": "",
+    "total_time": "",
+    "difficulty": "",
+    "yield": "",
+    "ingredients": [
+      {
+        "title": "Ingredients",
+        "ingredients": [
+          {
+            "ing_id": 58,
+            "aa_url": "",
+            "name": "Mashed Bananas",
+            "info": "(about 3 medium or 2 large ripe bananas)",
+            "quantity": "1 Cup (230g)"
+          },
+          {
+            "ing_id": 59,
+            "aa_url": "",
+            "name": "Peanut Butter",
+            "info": "creamy or crunchy",
+            "quantity": "1/2 Cup (125g)"
+          },
+          {
+            "ing_id": 60,
+            "aa_url": "",
+            "name": "Coconut sugar or brown sugar",
+            "info": "",
+            "quantity": "1/4 Cup (50g)"
+          },
+          {
+            "ing_id": 61,
+            "aa_url": "",
+            "name": "Unsweetened applesauce",
+            "info": "",
+            "quantity": "1/4 Cup (45g)"
+          },
+          {
+            "ing_id": 62,
+            "aa_url": "",
+            "name": "Almond milk",
+            "info": "(or any nondairy milk)",
+            "quantity": "1/2 Cup (120ml)"
+          },
+          {
+            "ing_id": 63,
+            "aa_url": "",
+            "name": "Old-fashioned whole oats or quick oats",
+            "info": "(non-instant)",
+            "quantity": "2 and 1/2 Cups (213g)"
+          },
+          {
+            "ing_id": 64,
+            "aa_url": "",
+            "name": "Baking powder",
+            "info": "",
+            "quantity": "1 Teaspoon"
+          },
+          {
+            "ing_id": 65,
+            "aa_url": "",
+            "name": "Salt",
+            "info": "",
+            "quantity": "1/2 Teaspoon"
+          },
+          {
+            "ing_id": 66,
+            "aa_url": "",
+            "name": "Ground cinnamon",
+            "info": "",
+            "quantity": "1 Teaspoon"
+          },
+          {
+            "ing_id": 67,
+            "aa_url": "",
+            "name": "Pure vanilla extract",
+            "info": "",
+            "quantity": "1 Teaspoon"
+          },
+          {
+            "ing_id": 68,
+            "aa_url": "",
+            "name": "Semi-sweet chocolate chips",
+            "info": "(use dairy free for vegan)",
+            "quantity": "1 Cup (180g)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F (177°C). Line a 9-inch square baking pan with parchment paper with enough overhang on the sides to easily remove the bars from the pan. Set aside.",
+      "In a large bowl or in the bowl of your stand mixer, mash the bananas. On medium speed, beat or whisk in the remaining ingredients in the order listed. Batter will be a little thick, but still pourable.",
+      "Pour/spoon the mixture evenly into the prepared pan and bake for 25-28 minutes or until the center is set (it will still look relatively soft!).",
+      "Remove from the oven and cool in the pan at room temperature for 30-60 minutes. After that, place the pan in the refrigerator for 1 hour until chilled. The bars are difficult to cut if they haven’t been chilled.",
+      "Remove bars from the pan using the overhang on the sides then cut into bars. Sometimes I drizzle melted peanut butter over each, but that’s optional. (Note: the parchment paper is always a little moist from soaking up some moisture from the bars.)",
+      "Cover leftover bars tightly and store in the refrigerator for up to 10 days."
+    ],
+    "notes": [
+      "Freezing Instructions: Freeze squares in single layers between sheets of parchment paper in a freezer-friendly container for up to 3 months. Thaw overnight in the refrigerator.",
+      "Peanut Butter: You can use any nut butter (peanut, almond, cashew) you want—natural, homemade, or processed.",
+      "Applesauce: I used to make these bars with 1 egg instead of the applesauce, but love their flavor with applesauce a bit better. You can, of course, use an egg instead or even use a flax egg substitute. Flax egg = mix 1 Tbsp ground flax with 3 Tbsp warm water and let it sit for 10 minutes while it “gels” up. Use the “flax gel” as a replacement for the applesauce/egg.",
+      "Oats: Use certified gluten free oats to ensure the bars are gluten free.",
+      "Chocolate Chips: You can skip the chocolate chips or replace them with peanut butter chips, chopped nuts, or raisins. Or use a combination of any of those add-ins.",
+      "Vegan: Use dairy-free chocolate chips and nondairy milk to ensure the bars are vegan.",
+      "Gluten Free: Make sure your oats are certified gluten free to ensure these bars are gluten free."
+    ],
+    "image": "",
+    "cuisine": "",
+    "rating": {
+      "value": null,
+      "count": null
+    }
+  },
+  {
+    "id": 6,
+    "title": "Homemade Strawberry Cake",
+    "description": "The one thing that sets this strawberry cake apart from others? Reduce fresh strawberry puree down and add to the best white cake batter. This strawberry cake completely blew me away. After years of mediocre from-scratch strawberry cakes, my expectations were pretty low. It was time to taste test my efforts. Biting into the first pastel-pink forkful was the moment of truth… I cried tears of joy. Or were those actual tears because I just dirtied every dish with all this strawberry cake recipe testing? I find it challenging to pack real strawberry flavor into cake without the crutch of fake strawberry flavoring. My goal was to create a strawberry layer cake made entirely from real strawberries. We’re talking strawberries inside the cake and in the frosting as well. With the help of freeze-dried strawberries, I tackled strawberry frosting. I’ll get to that below. But for strawberry cake? Things have always been pretty lackluster in the flavor and texture department.",
+    "course": "Entree",
+    "prep_time": "1 hour 30 minutes",
+    "cook_time": "25 minutes",
+    "total_time": "6 hours",
+    "difficulty": "Medium",
+    "yield": "10-12 servings",
+    "ingredients": [
+      {
+        "title": "Ingredients",
+        "sections": [
+          {
+            "title": "Strawberry Puree",
+            "ingredients": [
+              {
+                "ing_id": 69,
+                "aa_url": "",
+                "name": "Fresh strawberries",
+                "info": "rinsed and hulled",
+                "quantity": "1 pound (454g)"
+              }
+            ]
+          },
+          {
+            "title": "Cake",
+            "ingredients": [
+              {
+                "ing_id": 70,
+                "aa_url": "",
+                "name": "Cake flour",
+                "info": "spooned & leveled",
+                "quantity": "2 and 1/2 Cups (285g)"
+              },
+              {
+                "ing_id": 71,
+                "aa_url": "",
+                "name": "Baking powder",
+                "info": "",
+                "quantity": "2 Teaspoons"
+              },
+              {
+                "ing_id": 72,
+                "aa_url": "",
+                "name": "Baking soda",
+                "info": "",
+                "quantity": "1/2 Teaspoon"
+              },
+              {
+                "ing_id": 73,
+                "aa_url": "",
+                "name": "Salt",
+                "info": "",
+                "quantity": "1 Teaspoon"
+              },
+              {
+                "ing_id": 74,
+                "aa_url": "",
+                "name": "Unsalted butter",
+                "info": "softened to room temperature",
+                "quantity": "3/4 Cup (12 Tbsp; 170g)"
+              },
+              {
+                "ing_id": 75,
+                "aa_url": "",
+                "name": "Granulated sugar",
+                "info": "",
+                "quantity": "1 and 3/4 Cups (350g)"
+              },
+              {
+                "ing_id": 76,
+                "aa_url": "",
+                "name": "Large egg whites",
+                "info": "at room temperature",
+                "quantity": "5"
+              },
+              {
+                "ing_id": 77,
+                "aa_url": "",
+                "name": "Sour cream or plain yogurt",
+                "info": "at room temperature",
+                "quantity": "1/3 Cup (75g)"
+              },
+              {
+                "ing_id": 78,
+                "aa_url": "",
+                "name": "Pure vanilla extract",
+                "info": "",
+                "quantity": "2 Teaspoons"
+              },
+              {
+                "ing_id": 79,
+                "aa_url": "",
+                "name": "Whole milk",
+                "info": "at room temperature",
+                "quantity": "1/2 Cup (120ml)"
+              },
+              {
+                "ing_id": 80,
+                "aa_url": "",
+                "name": "Reduced strawberry puree",
+                "info": "",
+                "quantity": "1/2 Cup"
+              }
+            ]
+          },
+          {
+            "title": "Strawberry Cream Cheese Frosting",
+            "ingredients": [
+              {
+                "ing_id": 81,
+                "aa_url": "",
+                "name": "Freeze-dried strawberries",
+                "info": "",
+                "quantity": "1 Cup (about 25g)"
+              },
+              {
+                "ing_id": 82,
+                "aa_url": "",
+                "name": "Full-fat brick cream cheese",
+                "info": "softened to room temperature",
+                "quantity": "8 ounces (226g)"
+              },
+              {
+                "ing_id": 83,
+                "aa_url": "",
+                "name": "Fresh strawberries",
+                "info": "rinsed and hulled",
+                "quantity": "1 pound (454g)"
+              },
+              {
+                "ing_id": 84,
+                "aa_url": "",
+                "name": "Unsalted butter",
+                "info": "softened to room temperature",
+                "quantity": "1/2 Cup (8 Tbsp; 113g)"
+              },
+              {
+                "ing_id": 85,
+                "aa_url": "",
+                "name": "Confectioners' sugar",
+                "info": "",
+                "quantity": "3 Cups (360g)"
+              },
+              {
+                "ing_id": 86,
+                "aa_url": "",
+                "name": "Milk",
+                "info": "",
+                "quantity": "1-2 Tablespoons"
+              },
+              {
+                "ing_id": 87,
+                "aa_url": "",
+                "name": "Pure vanilla extract",
+                "info": "",
+                "quantity": "1 Teaspoon"
+              },
+              {
+                "ing_id": 88,
+                "aa_url": "",
+                "name": "Salt",
+                "info": "",
+                "quantity": "to taste"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Make the reduced strawberry puree first, and let cool: Puree 1 pound of rinsed and hulled strawberries. You should have a little over 1 cup. Stirring occasionally, simmer the puree over medium-low heat until you’re left with 1/2 cup or slightly more (you need 1/2 cup for the cake). This takes at least 25–35 minutes, but could take longer depending on your pan or how juicy your strawberries were. Allow to cool completely before using in cake batter. I always make the reduced puree the day before so it has plenty of time to cool down. I cover and place in the refrigerator overnight. Allow it to come back to room temperature before adding to the cake batter. (See Notes for further make-ahead instructions.)",
+      "Preheat oven to 350°F (177°C). Grease two 9-inch round cake pans, line with parchment paper rounds, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans. (If it’s helpful, see this parchment paper rounds for cakes video & post.)",
+      "Make the cake: Whisk the cake flour, baking powder, baking soda, and salt together. Set aside.",
+      "Using a handheld or stand mixer fitted with a paddle attachment, beat the butter and sugar together on high speed until smooth and creamed, about 2 minutes. Scrape down the sides and up the bottom of the bowl with a silicone spatula as needed. Beat in the egg whites on high speed until combined, about 2 minutes. Then beat in the sour cream and vanilla extract. Scrape down the sides and up the bottom of the bowl as needed. With the mixer on low speed, add the dry ingredients until just incorporated. With the mixer still running on low, slowly pour in the milk just until combined. Do not overmix. Whisk in 1/2 cup of room-temperature reduced strawberry puree, making sure there are no lumps at the bottom of the bowl. The batter will be slightly thick. Stir in food coloring, if desired. (I use 1 small drop of pink gel food coloring.)",
+      "Pour batter evenly into cake pans. Bake for around 24–25 minutes or until the cakes are baked through. To test for doneness, insert a toothpick into the center of the cake. If it comes out clean, it is done. Allow cakes to cool completely in the pans set on a wire rack. The cakes must be completely cool before frosting and assembling.",
+      "Make the frosting: Using a blender or food processor, process the freeze-dried strawberries into a powdery crumb. You should have around 1/2 cup crumbs. Set aside. In a large bowl using a handheld or stand mixer fitted with a paddle or whisk attachment, beat the cream cheese for 1 minute on high speed until completely smooth and creamy. Beat in the butter until combined. Add the confectioners’ sugar, strawberry powder, 1 Tablespoon milk, and vanilla and beat on medium-high speed until combined and creamy. Add 1 more Tablespoon of milk to slightly thin out, if desired. Taste, then add a pinch of salt if needed. Yields about 3 cups of frosting.",
+      "Assemble and frost: First, using a large serrated knife, slice a thin layer off the tops of the cakes to create a flat surface. Discard (or crumble over ice cream!). Place 1 cake layer on your cake stand, cake turntable, or serving plate. Evenly cover the top with frosting. Top with 2nd layer and spread the remaining frosting all over the top and sides. Refrigerate for at least 45 minutes before slicing. This helps the cake keep its shape when cutting—it could slightly fall apart without time in the fridge.",
+      "Cover leftover cake tightly and store in the refrigerator for 5 days."
+    ],
+    "image": "",
+    "cuisine": "",
+    "rating": {
+      "value": 0,
+      "count": 0
+    }
+  }
+]
